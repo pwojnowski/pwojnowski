@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @pwojnowski
-- 👀 I’m interested in various things, one of which is IT.
-- 🌱 I’m currently learning among others: flutter, classical guitar.
-- 💞️ I’m looking to collaborate on Clojure projects.
-- 📫 How to reach me: esperanto at cumego com
+- 💞️ Enjoy your life and let others enjoy theirs
+- 📫 How to reach me: use any channel you want.
 
 <!---
 pwojnowski/pwojnowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
